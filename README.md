@@ -2,7 +2,7 @@
 
 ## List of Experiments
 
-1. Todo - [Link](https://github.com/rgautam320/Web3.0-Projects/tree/master/Todo)
+1. [Todo](https://github.com/rgautam320/Web3.0-Projects/tree/master/Todo)
 
 ### Thank You
 
